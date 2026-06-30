@@ -2,13 +2,20 @@
 
 <div align="center">
 
-### 🚀 Robotics • 💻 Full Stack • 🤖 AI • 🎮 Minecraft Dev • ⚡ Hardware Hacker
+### 🚀 Robotics • 💻 Full Stack • 🤖 AI • ⚡ Hardware Hacker
 
 *"If it has code, wires, or both... I'm interested."*
 
 <img src="https://komarev.com/ghpvc/?username=MadManMax123&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<br><br>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Fusion 360](https://img.shields.io/badge/Fusion_360-F79A1B?style=for-the-badge&logo=autodesk&logoColor=white)
 
 </div>
 
@@ -20,31 +27,31 @@
 <tr>
 <td width="50%">
 
-* 🤖 Robotics & Automation
-* 🌐 Full-Stack Web Developer
-* 🧠 Artificial Intelligence
-* 🐍 Python Developer
-* ☕ Java Developer
-* ⚡ Electronics Enthusiast
-* 🍓 Raspberry Pi Developer
-* 🔌 Arduino & Embedded Systems
-* 🎮 Minecraft Plugin Developer
-* 💻 PC Hardware Enthusiast
+- 🤖 Robotics & Automation
+- 🌐 Full-Stack Web Developer
+- 🧠 Artificial Intelligence
+- 🐍 Python Developer
+- ☕ Java Developer
+- ⚡ Electronics Enthusiast
+- 🍓 Raspberry Pi Developer
+- 🔌 Arduino & Embedded Systems
+- 🎨 CAD & 3D Design
+- 💻 PC Hardware Enthusiast
 
 </td>
 
 <td width="50%">
 
-* 🐧 Linux Power User
-* ☁️ Cloud Deployments
-* 📷 Computer Vision
-* 📡 IoT Projects
-* 🔒 Cybersecurity Learner
-* 🛠️ DIY Electronics
-* 🧩 Problem Solver
-* 🚀 Open Source Enthusiast
-* ☕ Fueled by caffeine
-* 🎯 Always building something new
+- 🐧 Linux Power User
+- ☁️ Cloud Deployments
+- 📷 Computer Vision
+- 📡 IoT Projects
+- 🔒 Cybersecurity Learner
+- 🛠️ DIY Electronics
+- 🧩 Problem Solver
+- 🚀 Open Source Enthusiast
+- ☕ Fueled by caffeine
+- 🎯 Always building something new
 
 </td>
 </tr>
@@ -60,14 +67,14 @@
 
 </p>
 
-| Language      | Experience | Primary Use              |
-| ------------- | ---------- | ------------------------ |
-| 🐍 Python     | ⭐⭐⭐⭐⭐      | AI, Automation, Robotics |
-| ☕ Java        | ⭐⭐⭐⭐⭐      | Minecraft, Backend       |
-| ⚙️ C/C++      | ⭐⭐⭐⭐☆      | Arduino, Embedded        |
-| 🌐 JavaScript | ⭐⭐⭐⭐☆      | Full Stack               |
-| 🔷 TypeScript | ⭐⭐⭐☆☆      | Modern Web               |
-| 🖥️ Bash      | ⭐⭐⭐⭐☆      | Linux Automation         |
+| Language | Experience | Primary Use |
+|-----------|------------|-------------|
+| 🐍 Python | ⭐⭐⭐⭐⭐ | AI • Robotics • Automation |
+| ☕ Java | ⭐⭐⭐⭐⭐ | Backend • Desktop Apps |
+| ⚙️ C/C++ | ⭐⭐⭐⭐☆ | Embedded Systems |
+| 🌐 JavaScript | ⭐⭐⭐⭐☆ | Full Stack |
+| 🔷 TypeScript | ⭐⭐⭐☆☆ | Modern Web |
+| 🖥️ Bash | ⭐⭐⭐⭐☆ | Linux Automation |
 
 ---
 
@@ -75,15 +82,15 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,vite,tailwind,bootstrap,npm,mongodb,mysql,firebase,supabase,vercel,netlify&perline=7"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,vite,tailwind,bootstrap,npm,mongodb,mysql,firebase,supabase,vercel&perline=6"/>
 
 </p>
 
-| Frontend | Backend   | Database    | Deployment |
-| -------- | --------- | ----------- | ---------- |
-| React ⚛️ | Node.js   | MongoDB 🍃  | Vercel ▲   |
-| Next.js  | Express   | MySQL 🐬    | Netlify    |
-| HTML/CSS | REST APIs | Firebase 🔥 | Cloud      |
+| Frontend | Backend | Database | Deployment |
+|-----------|----------|-----------|------------|
+| React ⚛️ | Node.js | MongoDB 🍃 | Vercel ▲ |
+| Next.js | Express | MySQL 🐬 | Netlify |
+| HTML/CSS | REST APIs | Firebase 🔥 | Serverless |
 
 ---
 
@@ -91,50 +98,40 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux,cpp,python&perline=5"/>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,cpp,python&perline=4"/>
 
 </p>
 
 ### 🔩 Hardware I Work With
 
-| Platform                  | Experience |
-| ------------------------- | ---------- |
-| 🤖 Arduino UNO/Nano/Mega  | ⭐⭐⭐⭐⭐      |
-| 🍓 Raspberry Pi           | ⭐⭐⭐⭐⭐      |
-| 📡 ESP32                  | ⭐⭐⭐⭐☆      |
-| 📦 M5Stack                | ⭐⭐⭐⭐☆      |
-| 🔌 Sensors & Modules      | ⭐⭐⭐⭐⭐      |
-| ⚙️ Servo & Stepper Motors | ⭐⭐⭐⭐☆      |
-| 📷 Camera Modules         | ⭐⭐⭐⭐☆      |
-| 🌐 IoT Systems            | ⭐⭐⭐⭐☆      |
+| Platform | Experience |
+|-----------|------------|
+| 🤖 Arduino UNO/Nano/Mega | ⭐⭐⭐⭐⭐ |
+| 🍓 Raspberry Pi | ⭐⭐⭐⭐⭐ |
+| 📡 ESP32 | ⭐⭐⭐⭐☆ |
+| 📦 M5Stack | ⭐⭐⭐⭐☆ |
+| 🔌 Sensors & Modules | ⭐⭐⭐⭐⭐ |
+| ⚙️ Servo & Stepper Motors | ⭐⭐⭐⭐☆ |
+| 📷 Camera Modules | ⭐⭐⭐⭐☆ |
+| 🌐 IoT Systems | ⭐⭐⭐⭐☆ |
 
 ---
 
-# 🎮 Minecraft Development
+# 🎨 CAD & 3D Design
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,minecraft,gradle,git,github&perline=5"/>
+![Fusion 360](https://img.shields.io/badge/Autodesk-Fusion_360-F79A1B?style=for-the-badge&logo=autodesk&logoColor=white)
 
-</p>
+</div>
 
-✅ Paper API
-
-✅ Spigot API
-
-✅ Custom Boss Fights
-
-✅ Escape Rooms
-
-✅ Custom Items
-
-✅ Commands
-
-✅ GUIs
-
-✅ Events
-
-✅ Scoreboards
+| Skill | Experience |
+|--------|------------|
+| 🧩 Parametric Design | ⭐⭐⭐⭐⭐ |
+| ⚙️ Mechanical Assemblies | ⭐⭐⭐⭐☆ |
+| 🤖 Robotics Components | ⭐⭐⭐⭐⭐ |
+| 🖨️ 3D Printing Design | ⭐⭐⭐⭐☆ |
+| 📐 Functional Prototyping | ⭐⭐⭐⭐⭐ |
 
 ---
 
@@ -142,7 +139,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,git,github,postman,figma,linux,docker,githubactions,discord&perline=6"/>
+<img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,git,github,githubactions,postman,figma,docker,gradle,vercel,linux&perline=6"/>
 
 </p>
 
@@ -170,22 +167,22 @@
 
 # 🎯 Interests
 
-| 🤖 Robotics      | 🧠 AI              | 🌐 Web Dev     |
-| ---------------- | ------------------ | -------------- |
-| ⚡ Embedded       | 🎮 Minecraft       | ☁️ Cloud       |
-| 🍓 Raspberry Pi  | 📷 Computer Vision | 📡 IoT         |
-| 🔒 Cybersecurity | 💻 PC Hardware     | 🚀 Open Source |
+| 🤖 Robotics | 🧠 AI | 🌐 Web Dev |
+|-------------|-------|------------|
+| ⚡ Embedded | 🎨 CAD | ☁️ Cloud |
+| 🍓 Raspberry Pi | 📷 Computer Vision | 📡 IoT |
+| 🔒 Cybersecurity | 💻 PC Hardware | 🚀 Open Source |
 
 ---
 
 # 📚 Currently Learning
 
-* 🌱 Advanced Robotics
-* 🤖 Machine Learning
-* 🧠 Computer Vision
-* ⚡ Sensor Fusion
-* ☁️ Scalable Web Architecture
-* 📡 Advanced Embedded Systems
+- 🌱 Advanced Robotics
+- 🤖 Machine Learning
+- 🧠 Computer Vision
+- ⚡ Sensor Fusion
+- ☁️ Scalable Web Architecture
+- 📡 Advanced Embedded Systems
 
 ---
 
@@ -193,7 +190,7 @@
 
 I'm always excited to collaborate on:
 
-🤖 Robotics • 🧠 AI • 🌐 Full Stack • ⚡ Embedded Systems • 🎮 Minecraft Plugins • 🍓 Raspberry Pi • 🚀 Open Source
+🤖 Robotics • 🧠 AI • 🌐 Full Stack • ⚡ Embedded Systems • 🎨 CAD & 3D Design • 🍓 Raspberry Pi • 🚀 Open Source
 
 ---
 
